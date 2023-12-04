@@ -1,5 +1,5 @@
 # lang-swapper
-A tool which quickly swaps incorrect text meant to be written in one language to the correct one.
+A tool which quickly swaps mistyped text meant to be written in one language to the correct one.
 
 For example, you want to type "Hello, how are you?" but your keyboard was accidentally on Hebrew, and you typed: "Hקךךםת ים' שרק טםו?"
 
